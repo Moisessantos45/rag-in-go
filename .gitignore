@@ -1,0 +1,6 @@
+.env
+*.pdf
+*.jpg
+*.png
+*.jpeg
+*.gif
